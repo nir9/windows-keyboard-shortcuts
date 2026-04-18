@@ -10,6 +10,7 @@ Welcome to submit PRs adding additional ones, my goal is to have this list event
 - `WinKey + Arrows` - Move the current window according to the arrow direction - supported since Windows 7
 - `WinKey + E` - Open Windows Explorer - supported since Windows 95
 - `Alt + Tab` - Switch between open windows (since Windows 3.1 shows a visual switching indicator known as "CoolSwitch") - supported since Windows 1.01
+- `Ctrl + Shift + Alt + WinKey + L` - Open LinkedIn - supported since Windows 10 1903
 
 More coming soon!
 
