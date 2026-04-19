@@ -19,6 +19,9 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 ## Introduced in Windows 3.1 (1992)
 - `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
 
+## Introduced in Windows NT 3.1 (1993)
+- `Ctrl + Alt + Delete` - Open the "Windows NT Security (NT3+)"/"Close Program (Win95+)"/"Windows Security (Win2k,Vista+)"/"Windows Task Manager (WinXP)" dialog (from Vista+ it's fullscreen)
+
 ## Introduced in Windows 95 (1995)
 - `WinKey` or `Ctrl + Esc` - Open the "Start" menu
 - `WinKey + R` - Open the "Run" dialog
