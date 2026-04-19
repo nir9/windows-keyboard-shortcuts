@@ -2,25 +2,29 @@
 
 This is currently a work in progress.
 
-Welcome to submit PRs adding additional ones, my goal is to have this list eventually also include many shortcuts that are not officially documented.
+Welcome to submit PRs adding additional ones, my goal is to have this list eventually include many shortcuts that are not officially documented.
 
 Unless noted individually, all the shortcuts support all Windows versions that follow the one they were introduced in.
 
 ## Introduced in Windows 1.01 (1985)
 - `Alt + Tab` - Switch between open windows (since Windows 3.1 shows a visual switching indicator known as "CoolSwitch"), `Shift` can be added to change the direction
 - `Alt + Space` - Open current window context menu
+- `Any Letter` - Jump to the next file on the list beginning with the corresponding letter, Windows 95 improved the logic to detect consecutive letters typed rapidly and treat them in letter order
 
 ## Introduced in Windows 2.01 (1987)
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
+- `Alt + Esc` - Similar to `Alt + Tab` except the windows "switched-to" on every press and not just on release, also no visual indicator is shown, `Shift` can be added to change the direction
+- `Arrows` - Navigate through the file list using the arrow keys
 
 ## Introduced in Windows 3.1 (1992)
-- `Alt + Enter` on a selected icon or alternatively `Alt + Double Click` on an icon - Open the file "Properties"
+- `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
 
 ## Introduced in Windows 95 (1995)
 - `WinKey` or `Ctrl + Esc` - Open the "Start" menu
 - `WinKey + R` - Open the "Run" dialog
 - `WinKey + M` - Minimize the current window, `Shift` can be added to undo the minimize
 - `WinKey + E` - Open Windows Explorer
+- `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot)
 
 ## Introduced in Windows Vista (2007)
 - `Ctrl + Alt + Tab` - Similar to `Alt + Tab` but keeps "CoolSwitch" open when the keys are let go and enables arrow navigation until `Enter` is pressed on the desired window
