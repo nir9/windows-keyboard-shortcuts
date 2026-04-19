@@ -10,11 +10,18 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Alt + Tab` - Switch between open windows (since Windows 3.1 shows a visual switching indicator known as "CoolSwitch"), `Shift` can be added to change the direction
 - `Alt + Space` - Open current window context menu
 - `Any Letter` - Jump to the next file on the list beginning with the corresponding letter, Windows 95 improved the logic to detect consecutive letters typed rapidly and treat them in letter order
+- `Enter` - Either enter focused folder, open focused file if a default program is defined or run focused file
+- `Backspace` - Navigate to the parent folder
+- `Shift` - Adds to a multiple selection when held while clicking files, this changed on Windows 3.0 (see relavent section)
+- `Alt + Any Letter` - Open the menu item beginning with the corresponding letter, `Esc` can be used to close the menu
 
 ## Introduced in Windows 2.01 (1987)
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
 - `Alt + Esc` - Similar to `Alt + Tab` except the windows "switched-to" on every press and not just on release, also no visual indicator is shown, `Shift` can be added to change the direction
 - `Arrows` - Navigate through the file list using the arrow keys
+
+## Introduced in Windows 3.0 (1990)
+- `Ctrl` - Same as `Shift` on previous versions (and `Shift` now selects a range of files instead of individual ones)
 
 ## Introduced in Windows 3.1 (1992)
 - `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
