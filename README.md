@@ -23,7 +23,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 
 ## Introduced in Windows 3.0 (1990)
 - `Ctrl` - Same as `Shift` on previous versions (and `Shift` now selects a range of files instead of individual ones)
-- `Ctrl + Shift + Esc` - Open the "Task List (Win3+)"/"Windows NT Task Manager (NT4)"/"Windows Task Manager (Win2k+)", on the NT line this shortcut appeared Windows NT 4.0 onward, and on the 9x line it disappeared
+- `Ctrl + Shift + Esc` - Open the "Task List (Win3,Win3.1)"/"Windows NT Task Manager (NT4)"/"Windows Task Manager (Win2k+)", on the NT line this shortcut appeared Windows NT 4.0 onward, and on the 9x line it disappeared
 
 ## Introduced in Windows 3.1 (1992)
 - `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
