@@ -25,9 +25,12 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 ## Introduced in Windows 3.0 (1990)
 - `Ctrl` - Same as `Shift` on previous versions (and `Shift` now selects a range of files instead of individual ones)
 - `Ctrl + Shift + Esc` - Open the "Task List (Win3,Win3.1)"/"Windows NT Task Manager (NT4)"/"Windows Task Manager (Win2k+)", on the NT line this shortcut appeared Windows NT 4.0 onward, and on the 9x line it disappeared
+- `F5` - Refresh
+- `F1` - Help
 
 ## Introduced in Windows 3.1 (1992)
 - `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
+- `F6` - Same as `Tab` (including `Shift` support)
 
 ## Introduced in Windows NT 3.1 (1993)
 - `Ctrl + Alt + Delete` - Open the "Windows NT Security (NT3+)"/"Close Program (Win95+)"/"Windows Security (Win2k,Vista+)"/"Windows Task Manager (WinXP)" dialog (from Vista+ it's fullscreen)
@@ -38,6 +41,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `WinKey + M` - Minimize the current window, `Shift` can be added to undo the minimize
 - `WinKey + E` - Open Windows Explorer
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
+- `F2` - Rename
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot)
 
 ## Introduced in Windows 2000 (2000)
