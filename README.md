@@ -2,7 +2,7 @@
 
 This is currently a work in progress.
 
-Welcome to submit PRs adding additional ones, my goal is to have this list eventually include many shortcuts that are not officially documented and understand the history behind them.
+Welcome to submit PRs adding additional ones or fixing mistakes, my goal is to have this list eventually include many shortcuts that are not officially documented and understand the history behind them.
 
 Unless noted individually, all the shortcuts support all Windows versions that follow the one they were introduced in.
 
@@ -16,6 +16,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Alt + Any Letter` - Open the menu item beginning with the corresponding letter, `Esc` can be used to close the menu
 - `Esc` - Close the current dialog or an opened menu
 - `Arrows` - Navigate through an open menu, since Windows 2.01 also navigates through the file list
+- `Tab` - Navigate focus through UI elements, `Shift` can be added to change direction
 
 ## Introduced in Windows 2.01 (1987)
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
@@ -39,6 +40,9 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot)
 
+## Introduced in Windows 2000 (2000)
+- `Ctrl + A` - Select all, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
+
 ## Introduced in Windows Vista (2007)
 - `Ctrl + Alt + Tab` - Similar to `Alt + Tab` but keeps "CoolSwitch" open when the keys are let go and enables arrow navigation until `Enter` is pressed on the desired window
 
@@ -46,9 +50,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `WinKey + Arrows` - Move the current window according to the arrow direction, `Shift` can be added to move it to a different monitor
 
 ## Introduced in Windows 10 (2015)
-- `Ctrl + Shift + Alt + WinKey + L` - Open LinkedIn - supported since Windows 10 1903
-
-More coming soon!
+- `Ctrl + Shift + Alt + WinKey + L` - Open LinkedIn, `Ctrl + Shift + Alt + WinKey` is what is virtually pressed when using the "Office" key - supported since Windows 10 1903
 
 ### Useful Resources for Emulating Old Windows Versions
 - https://copy.sh/v86
