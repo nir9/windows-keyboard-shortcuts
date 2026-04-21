@@ -36,6 +36,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `WinKey + R` - Open the "Run" dialog
 - `WinKey + M` - Minimize the current window, `Shift` can be added to undo the minimize
 - `WinKey + E` - Open Windows Explorer
+- `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot)
 
 ## Introduced in Windows Vista (2007)
