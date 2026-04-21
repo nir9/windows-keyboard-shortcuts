@@ -43,7 +43,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
 - `F2` - Rename
 - `Context Menu Button` or `Shift + F10` - Open context menu of focused item
-- `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot)
+- `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot), on the NT line supported from Win2k
 
 ## Introduced in Windows 2000 (2000)
 - `Ctrl + A` - Select all, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
