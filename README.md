@@ -30,7 +30,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 
 ## Introduced in Windows 3.1 (1992)
 - `Alt + Enter` on a selected icon or `Alt + Double Click` on an icon - Open the file "Properties"
-- `F6` - Same as `Tab` (including `Shift` support)
+- `F6` - Same as `Tab` (including `Shift` support), since WinME acts slightly different than `Tab`; when the menu of the address bar is opened `F6` will always close it and switch to the next UI element while `Tab` navigates through the menu.
 
 ## Introduced in Windows NT 3.1 (1993)
 - `Ctrl + Alt + Delete` - Open the "Windows NT Security (NT3+)"/"Close Program (Win95+)"/"Windows Security (Win2k,Vista+)"/"Windows Task Manager (WinXP)" dialog (from Vista+ it's fullscreen)
