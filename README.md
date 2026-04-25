@@ -41,6 +41,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `WinKey + R` - Open the "Run" dialog
 - `WinKey + M` - Minimize the current window, `Shift` can be added to undo the minimize
 - `WinKey + E` - Open Windows Explorer
+- `WinKey + Tab` - Cycle focus through windows in the taskbar, meaning changed starting from Vista
 - `F4` - Open the Explorer address bar menu, on Win95 and 98 requires pressing `F4` again to start editing the address, from WinME it's editable right away. On the NT line this was supported from NT4 but the address was only editable starting from Win2k
 - `F2` - Rename
 - `Context Menu Button` or `Shift + F10` - Open context menu of focused item
