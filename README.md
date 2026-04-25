@@ -17,6 +17,7 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `Esc` - Close the current dialog or an opened menu
 - `Arrows` - Navigate through an open menu, since Windows 2.01 also navigates through the file list
 - `Tab` - Navigate focus through UI elements, `Shift` can be added to change direction
+- `Ctrl + A/B` - List files from Floppy A/B, the meaning of `CTRL + A` has completely changed in Win95 (see relevant section)
 
 ## Introduced in Windows 2.01 (1987)
 - `Alt + F4` - Close current window or shows the "end session" confirmation dialog if the "Desktop (Win95+)"/"Program Manager (Win3+)"/"MS-DOS Executive (Win2)" window is focused
@@ -44,9 +45,10 @@ Unless noted individually, all the shortcuts support all Windows versions that f
 - `F2` - Rename
 - `Context Menu Button` or `Shift + F10` - Open context menu of focused item
 - `F8` - When pressed during early boot, opens a menu with advanced boot options (likely inspired by MS-DOS using the `F8` hotkey during boot), on the NT line supported from Win2k
+- New meaning for `Ctrl + A` - Select all files in current focused explorer window, meaning was expanded in Win2k (see relevant section)
 
 ## Introduced in Windows 2000 (2000)
-- `Ctrl + A` - Select all, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
+- Expanded meaning for `Ctrl + A` - Select all files/text, though this wasn't yet supported on all text fields (for example it was supported on Notepad but not on the text field of the Run dialog). Only starting from Vista it was supported on all text fields
 
 ## Introduced in Windows Vista (2007)
 - `Ctrl + Alt + Tab` - Similar to `Alt + Tab` but keeps "CoolSwitch" open when the keys are let go and enables arrow navigation until `Enter` is pressed on the desired window
