@@ -1,9 +1,5 @@
 # List of Windows Keyboard Shortcuts
 
-This is currently a work in progress.
-
-Welcome to submit PRs adding additional ones or fixing mistakes, my goal is to have this list eventually include many shortcuts that are not officially documented and understand the history behind them.
-
 Unless noted individually, all the shortcuts support all Windows versions that follow the one they were introduced in.
 
 ## Introduced in Windows 1.01 (1985)
