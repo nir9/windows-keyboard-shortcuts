@@ -1,4 +1,4 @@
-# List of Windows Keyboard Shortcuts
+# List of Windows Keyboard Shortcuts (Work in Progress)
 
 Unless noted individually, all the shortcuts support all Windows versions that follow the one they were introduced in.
 
